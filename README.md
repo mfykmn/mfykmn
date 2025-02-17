@@ -7,6 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfykmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### badge
-
-[![badge.svg](https://bcert.me/bc/html/img/badges/generated/badge-7436.png)](https://bcert.me/ssrsbxdcv)
+[<img src="https://bcert.me/bc/html/img/badges/generated/badge-7436.png" width="5%">](https://bcert.me/ssrsbxdcv)
