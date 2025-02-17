@@ -8,4 +8,5 @@
 
 
 ### badge
-<a href="https://bcert.me/ssrsbxdcv"><img src="[badge.svg](https://bcert.me/bc/html/img/badges/generated/badge-7436.png)"></a>
+[<a href="https://bcert.me/ssrsbxdcv"><img src="[badge.svg](https://bcert.me/bc/html/img/badges/generated/badge-7436.png)"></a>
+](https://certification.scrumalliance.org/accounts/1169848-mafuyu-kamono/certifications/1342428-scrumfoundations)
